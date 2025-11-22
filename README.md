@@ -8,4 +8,4 @@
 - Image generator: https://huggingface.co/spaces/louie8841/AI-image-generator
 - Translator: https://huggingface.co/spaces/louie8841/python-translator
 ## UI
-### Made with [Gradio](https://www.gradio.app/)
+##Made with [Gradio](https://www.gradio.app/)
