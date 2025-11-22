@@ -4,9 +4,9 @@
 2. Image generator(pollinations.ai)
 3. Translator(Google translator)
 ## Preview
-- Chatbot: [https://huggingface.co/spaces/Louie88410/Gemini-Python](https://huggingface.co/spaces/Louie88410/Gemini-Python){: target="_blank"}
-- Image generator: [https://huggingface.co/spaces/louie8841/AI-image-generator](https://huggingface.co/spaces/louie8841/AI-image-generator){: target="_blank"}
-- Translator: {[https://huggingface.co/spaces/louie8841/python-translator](https://huggingface.co/spaces/louie8841/python-translator): target="_blank"}
+- Chatbot: [https://huggingface.co/spaces/Louie88410/Gemini-Python](https://huggingface.co/spaces/Louie88410/Gemini-Python)
+- Image generator: [https://huggingface.co/spaces/louie8841/AI-image-generator](https://huggingface.co/spaces/louie8841/AI-image-generator)
+- Translator: [https://huggingface.co/spaces/louie8841/python-translator](https://huggingface.co/spaces/louie8841/python-translator)
 ## UI
 Made with [Gradio](https://www.gradio.app/){: target="_blank"}
 ## Note
