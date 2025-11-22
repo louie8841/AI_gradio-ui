@@ -9,3 +9,7 @@
 - Translator: https://huggingface.co/spaces/louie8841/python-translator
 ## UI
 Made with [Gradio](https://www.gradio.app/)
+## Note
+- This project is using Korean.
+- Preview link is connected to Hugging face spaces. If you want to just use the app, you can just use the preview link.
+- Google API is used in Chatbot. You can get your own API key [here]()
