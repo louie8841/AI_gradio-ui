@@ -7,3 +7,5 @@
 - Chatbot: https://huggingface.co/spaces/Louie88410/Gemini-Python
 - Image generator: https://huggingface.co/spaces/louie8841/AI-image-generator
 - Translator: https://huggingface.co/spaces/louie8841/python-translator
+## UI
+### Made with [Gradio](https://www.gradio.app/)
